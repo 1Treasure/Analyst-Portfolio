@@ -52,7 +52,7 @@ A showcase of data analytics projects using Excel, SQL, Python, and Tableau.
 ---
 
 ## 📬 Contact
-- [[LinkedIn](https://www.linkedin.com/in/treasure-wilkins-7b1a85289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](#)
+- Linkedin: [http://linkedin.com/in/treasure-wilkins-7b1a85289]
 - Email: your.email@example.com
 
 ---
