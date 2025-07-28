@@ -26,8 +26,15 @@ A showcase of data analytics projects using Excel, SQL, Python, and Tableau.
 ---
 
 ## 📂 Featured Projects
+### 🔋 Natural Gas Storage Analysis
+- **Goal**: Explore seasonal and regional patterns in U.S. natural gas storage
+- **Tools**: Excel
+- **Outcome**: Identified cyclical storage behavior and YoY capacity trends
+- 📎 [View Workbook][natural_gas_storage_analysis.xlsx](https://github.com/user-attachments/files/21460841/natural_gas_storage_analysis.xlsx)
+- 📄 [Read More]
 
 ### 1. **Retail Sales Dashboard (Excel)**
+
 - **Goal**: Analyze sales trends and top-performing products
 - **Tools**: Excel (Pivot Tables, Charts, Conditional Formatting)
 - **Outcome**: Identified 3 seasonal patterns and top 5 SKUs by revenue
