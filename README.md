@@ -30,8 +30,8 @@ A showcase of data analytics projects using Excel, SQL, Python, and Tableau.
 - **Goal**: Explore seasonal and regional patterns in U.S. natural gas storage
 - **Tools**: Excel
 - **Outcome**: Identified cyclical storage behavior and YoY capacity trends
-- 📎 [View Workbook][natural_gas_storage_analysis.xlsx](https://github.com/user-attachments/files/21460841/natural_gas_storage_analysis.xlsx)
-- 📄 [Read More]
+- 📎 [View Workbook]natural_gas_storage_analysis.xlsx
+- 📄 [Read More](#)
 
 ### 1. **Retail Sales Dashboard (Excel)**
 
