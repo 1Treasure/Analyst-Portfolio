@@ -30,8 +30,18 @@ A showcase of data analytics projects using Excel, SQL, Python, and Tableau.
 - **Goal**: Explore seasonal and regional patterns in U.S. natural gas storage
 - **Tools**: Excel
 - **Outcome**: Identified cyclical storage behavior and YoY capacity trends
-- 📎 [View Workbook]natural_gas_storage_analysis.xlsx
+- 📎 [View Workbook][natural_gas_storage_analysis.xlsx](https://github.com/user-attachments/files/21465109/natural_gas_storage_analysis.xlsx)
+
 - 📄 [Read More](#)
+
+- ### 🧾 Pipeline Invoice Review  
+- **Goal:** Identify overcharges in a natural gas pipeline invoice by comparing billed rates to contract terms  
+- **Tools:** Excel (formulas, formatting, cost validation)  
+- **Outcome:** Caught duplicate fuel retention and demand rate errors, saving the company **$4,550** in overcharges  
+- 📎 [View Workbook][Pipeline_Invoice.xlsx](https://github.com/user-attachments/files/21465064/Pipeline_Invoice.xlsx)
+- 📄 [Read More]
+
+## 🔜 **_Upcoming Projects_**
 
 ### 1. **Retail Sales Dashboard (Excel)**
 
