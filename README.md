@@ -1,6 +1,6 @@
 # Analyst-Portfolio
 A showcase of data analytics projects using Excel, SQL, Python, and Tableau.
-# Treasure Wilkins — Data Analyst Portfolio
+# Treasure's — Data Analyst Portfolio
 
 📊 Welcome! I'm Treasure, an aspiring Data Analyst with a background in Economics and a growing skill set in data analysis. This portfolio showcases hands-on projects using Excel, SQL, Tableau, and Google Sheets to solve real-world problems.
 
