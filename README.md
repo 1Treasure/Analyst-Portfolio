@@ -66,12 +66,6 @@ A showcase of data analytics projects using Excel, SQL, Python, and Tableau.
 - **Outcome**: Created a clear financial projection with visual summaries
 - 📊 [View Sheet](#) | 📄 [Read More](#)
 
----
-
-## 📬 Contact
-- Linkedin: [http://linkedin.com/in/treasurewilkins]
-- Email: thetreasurewilkins@gmail.com
-- Website:
 
 ---
 
