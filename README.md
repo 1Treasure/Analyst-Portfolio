@@ -10,7 +10,6 @@ A showcase of data analytics projects using Excel, SQL, Python, and Tableau.
 - 🎓 Bachelor's in Economics
 - 📈 Strong foundation in data storytelling, business analytics, and problem-solving
 - 💻 Currently learning SQL and enhancing my data skills through self-directed projects
-- 🔍 Looking for remote or Gainesville-based analyst roles
 
 ---
 
