@@ -33,7 +33,7 @@ A showcase of data analytics projects using Excel, SQL, Python, and Tableau.
 
 - 📄 [Read More](#)
 
-- ### 🧾 Pipeline Invoice Review  
+### 🧾 Pipeline Invoice Review  
 - **Goal:** Identify overcharges in a natural gas pipeline invoice by comparing billed rates to contract terms  
 - **Tools:** Excel (formulas, formatting, cost validation)  
 - **Outcome:** Caught duplicate fuel retention and demand rate errors, saving the company **$4,550** in overcharges  
